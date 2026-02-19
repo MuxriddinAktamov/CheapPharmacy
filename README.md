@@ -36,7 +36,9 @@ DTO pattern is used for data transfer.
 ---
 
 ## API Documentation
-Swagger UI: http://localhost:8080/swagger-ui.html
+Swagger UI is available after running the application locally:
+
+http://localhost:8080/swagger-ui.html
 
 ---
 
